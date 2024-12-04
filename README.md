@@ -28,6 +28,7 @@ The notes (in `%DIRECTORY%/Notes`) were done in [Obsidian Note](https://obsidian
         - `/C/`  
         - `/CPlusPlus/`
         - `/CSharp/`
+      - `/GDScript/`
       - `/Javascript/`
         - `/JavascriptProject`
         - `/Libraries/` 
